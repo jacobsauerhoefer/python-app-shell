@@ -17,6 +17,20 @@ Coming Soon
 
 Coming Soon
 
+## Running
+
+Enter Virtual Environment:
+
+`source venv/bin/activate`
+
+Start Server:
+
+`python server/source/server.py`
+
+To cleanup *.pyc files:
+
+`sh cleanup.bash`
+
 ## API Reference
 
 Coming Soon
