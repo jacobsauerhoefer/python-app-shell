@@ -15,17 +15,19 @@ Coming Soon
 
 ## Installation
 
-Coming Soon
+```bash
+#Install Virtual Environment:
+virtualenv venv
 
-## Running
+#Enter Virtual Environment
+source venv/bin/activate
 
-Enter Virtual Environment:
+#Install Dependencies:
+pip install -r requirements.txt
 
-`source venv/bin/activate`
-
-Start Server:
-
-`python server/source/server.py`
+#Start Server
+python server/source/server.py
+```
 
 To cleanup *.pyc files:
 
