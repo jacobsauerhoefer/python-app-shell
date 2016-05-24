@@ -1,8 +1,8 @@
 """ Server """
 
-from flask import Flask, render_template
-import api as api
-APP = Flask(__name__, template_folder='../../public')
+from source import APP
+import source.api as api
+# APP = Flask(__name__, template_folder='../../public')
 
 @APP.route('/')
 def hello_world():
