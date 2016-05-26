@@ -1,6 +1,6 @@
 ## App-Shell
 
-> Python based Application Shell for use in powering modern web-based user interfaces
+> Python & Flask Based Application Shell
 
 ## Goal
 

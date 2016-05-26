@@ -1,4 +1,4 @@
-# from ../source.server import app
+# from application import app
 import unittest
 
 class TestStringMethods(unittest.TestCase):
