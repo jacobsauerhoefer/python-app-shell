@@ -26,7 +26,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 #Start Server
-python server/source/server.py
+python server.py
 ```
 
 To cleanup *.pyc files:
